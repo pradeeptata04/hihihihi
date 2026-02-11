@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@types/crypto-js": "^4.2.2",
+    hiihi,
     "@types/react-datepicker": "^6.2.0",
     "@types/react-router-dom": "^5.3.3",
     "axios": "^1.13.4",
